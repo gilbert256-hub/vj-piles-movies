@@ -78,7 +78,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       const userDoc = await getDoc(doc(db, "users", firebaseUser.uid))
       const userData = userDoc.data()
 
-      const isAdminUser = firebaseUser.email === ADMIN_EMAIL
+      const isAdminUser = firebaseUser.email?.toLowerCase() === ADMIN_EMAIL.toLowerCase()
 
       const user: User = {
         id: firebaseUser.uid,
@@ -117,7 +117,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       const result = await signInWithPopup(auth, googleProvider)
       const firebaseUser = result.user
 
-      const isAdminUser = firebaseUser.email === ADMIN_EMAIL
+      const isAdminUser = firebaseUser.email?.toLowerCase() === ADMIN_EMAIL.toLowerCase()
 
       // Check if user document exists, if not create it
       const userDoc = await getDoc(doc(db, "users", firebaseUser.uid))
@@ -156,7 +156,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       // Update display name
       await updateProfile(firebaseUser, { displayName: name })
 
-      const isAdminUser = email === ADMIN_EMAIL
+      const isAdminUser = email.toLowerCase() === ADMIN_EMAIL.toLowerCase()
 
       // Create user document in Firestore
       await setDoc(doc(db, "users", firebaseUser.uid), {
