@@ -1,0 +1,37 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAdmin() {
+      return request.auth.token.email == 'okotstephen57@gmail.com';
+    }
+
+    match /users/{userId} {
+      allow read, write: if request.auth.uid == userId || isAdmin();
+    }
+
+    match /movies/{movieId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /series/{seriesId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /episodes/{episodeId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /adverts/{advertId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /heroImages/{heroImageId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}
