@@ -71,9 +71,6 @@ export default function HeroBanner() {
           priority
           sizes="100vw"
         />
-        {/* Gradient Overlays */}
-        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-r from-background/80 via-transparent to-background/80" />
       </div>
 
       {/* Content */}
