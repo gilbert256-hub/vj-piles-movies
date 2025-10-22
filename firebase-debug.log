@@ -1,0 +1,464 @@
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:12:31.307Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.308Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.308Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.311Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.312Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.389Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.390Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.390Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.391Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.391Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.395Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.395Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.396Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.397Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.397Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.400Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.400Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.401Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.401Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.401Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.404Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.404Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.404Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.405Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.405Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.408Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.408Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.408Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.409Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.409Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.412Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.412Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.412Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.413Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.413Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.415Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.415Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.416Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.416Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.416Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.419Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.419Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.419Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.420Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.420Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.423Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.423Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.423Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.424Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.424Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:12:31.539Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.539Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.539Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.539Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.539Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.542Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.542Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.543Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.543Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.543Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.546Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.546Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.546Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.547Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.547Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.550Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.550Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.550Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.551Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.551Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.554Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.554Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.554Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.555Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.555Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.557Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.557Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.558Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.558Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.558Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.560Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.561Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.561Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.561Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.561Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.564Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.564Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.564Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.565Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.565Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.567Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.567Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.568Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.568Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.568Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.570Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.570Z] Checked if tokens are valid: false, expires at: 1761068343647
+[debug] [2025-10-22T09:12:31.570Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T09:12:31.571Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T09:12:31.571Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.667Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.667Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.690Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.690Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.716Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.716Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.728Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.728Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.735Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.736Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.751Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.751Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.769Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.770Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.786Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.786Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.789Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.789Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.801Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.802Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.806Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.806Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.818Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.818Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.847Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.847Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.864Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.864Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.873Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.873Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.888Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [none]
+[debug] [2025-10-22T09:12:31.888Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.892Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.892Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.903Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [none]
+[debug] [2025-10-22T09:12:31.904Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.906Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.906Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.928Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com [none]
+[debug] [2025-10-22T09:12:31.928Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.952Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.955Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:31.982Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [none]
+[debug] [2025-10-22T09:12:31.982Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:31.991Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:31.991Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.019Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.020Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.054Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.054Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.071Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.072Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.074Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.074Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.084Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.085Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.091Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.092Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.102Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.103Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.124Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.125Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.143Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.143Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.145Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.145Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.156Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [none]
+[debug] [2025-10-22T09:12:32.156Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.163Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.164Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.176Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.176Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.199Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.199Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.216Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.216Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.218Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T09:12:32.219Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T09:12:32.239Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T09:12:32.239Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:12:32.557Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T09:12:32.557Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:32.652Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com 403
+[debug] [2025-10-22T09:12:32.653Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [omitted]
+[debug] [2025-10-22T09:12:32.790Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com 403
+[debug] [2025-10-22T09:12:32.791Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [omitted]
+[debug] [2025-10-22T09:12:33.010Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com 200
+[debug] [2025-10-22T09:12:33.010Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.049Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T09:12:33.053Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.084Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-22T09:12:33.085Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.137Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T09:12:33.137Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.137Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com 200
+[debug] [2025-10-22T09:12:33.137Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.156Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T09:12:33.156Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.158Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-22T09:12:33.158Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.170Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com 200
+[debug] [2025-10-22T09:12:33.171Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.184Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T09:12:33.185Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.186Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T09:12:33.186Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.189Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ 200
+[debug] [2025-10-22T09:12:33.189Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [omitted]
+[debug] [2025-10-22T09:12:33.190Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T09:12:33.190Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.194Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com 200
+[debug] [2025-10-22T09:12:33.194Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/storage.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.204Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-22T09:12:33.204Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.215Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-22T09:12:33.215Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.232Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T09:12:33.235Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T09:12:33.236Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ 200
+[debug] [2025-10-22T09:12:33.236Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:12:33.244Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T09:12:33.245Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:32:51.774Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.775Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.776Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.776Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.777Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.778Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.779Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.779Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.780Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.780Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.781Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.781Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:51.784Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [none]
+[debug] [2025-10-22T09:32:51.784Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:51.938Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T09:32:51.939Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:51.943Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T09:32:51.943Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:51.956Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T09:32:51.956Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:51.960Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T09:32:51.960Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:51.964Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [none]
+[debug] [2025-10-22T09:32:51.964Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com x-goog-quota-user=projects/vj-piles-movies
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:32:52.118Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.118Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.119Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.119Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.123Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.124Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.126Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.127Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.127Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.128Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.128Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.128Z] Checked if tokens are valid: true, expires at: 1761127951219
+[debug] [2025-10-22T09:32:52.129Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [none]
+[debug] [2025-10-22T09:32:52.129Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:52.139Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T09:32:52.139Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:52.152Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T09:32:52.152Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:52.158Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T09:32:52.159Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:52.163Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T09:32:52.164Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:52.171Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [none]
+[debug] [2025-10-22T09:32:52.172Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T09:32:52.793Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com 403
+[debug] [2025-10-22T09:32:52.793Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [omitted]
+[debug] [2025-10-22T09:32:52.866Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T09:32:52.869Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:52.881Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T09:32:52.881Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:52.901Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T09:32:52.902Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:52.921Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com 403
+[debug] [2025-10-22T09:32:52.921Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [omitted]
+[debug] [2025-10-22T09:32:52.933Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T09:32:52.933Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:52.965Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T09:32:52.966Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:52.983Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T09:32:52.984Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:53.054Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T09:32:53.054Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:53.056Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T09:32:53.056Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T09:32:53.062Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ 200
+[debug] [2025-10-22T09:32:53.062Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [omitted]
+[debug] [2025-10-22T09:32:53.190Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ 200
+[debug] [2025-10-22T09:32:53.190Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:32:53.199Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T09:32:53.200Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:32:53.242Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T09:32:53.243Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T09:32:53.267Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T09:32:53.268Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T10:10:47.837Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.838Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.838Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.841Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.842Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.896Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.896Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.896Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.897Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.897Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.901Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.901Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.901Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.902Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.902Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.905Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.905Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.905Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.906Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.906Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.908Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.908Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.908Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.909Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.909Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.911Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.911Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.911Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.911Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.911Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T10:10:47.985Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.985Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.985Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.985Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.985Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.988Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.988Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.988Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.988Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.989Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.991Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.991Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.991Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.991Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.991Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.994Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.994Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.994Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.994Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.994Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:47.997Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.997Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:47.997Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:47.998Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:47.998Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.000Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:48.000Z] Checked if tokens are valid: false, expires at: 1761127951219
+[debug] [2025-10-22T10:10:48.000Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T10:10:48.001Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T10:10:48.001Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.080Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.081Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.101Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.101Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.129Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.129Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.143Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.144Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.149Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.149Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.162Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.162Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.168Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.168Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.186Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.186Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.211Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.211Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.230Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [none]
+[debug] [2025-10-22T10:10:48.230Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.238Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.238Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.250Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.250Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.254Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.254Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.271Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [none]
+[debug] [2025-10-22T10:10:48.271Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.273Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.274Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.283Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.283Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.317Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.317Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.335Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.336Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.338Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.338Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.347Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [none]
+[debug] [2025-10-22T10:10:48.347Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.353Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.354Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.369Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T10:10:48.369Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.371Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T10:10:48.372Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T10:10:48.392Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [none]
+[debug] [2025-10-22T10:10:48.392Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ x-goog-quota-user=projects/vj-piles-movies
+[debug] [2025-10-22T10:10:48.878Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T10:10:48.878Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:48.918Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com 403
+[debug] [2025-10-22T10:10:48.918Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [omitted]
+[debug] [2025-10-22T10:10:48.952Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T10:10:48.953Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:48.967Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T10:10:48.968Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:49.015Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T10:10:49.015Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:49.031Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com 403
+[debug] [2025-10-22T10:10:49.033Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseio.com [omitted]
+[debug] [2025-10-22T10:10:49.047Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T10:10:49.048Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:49.050Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T10:10:49.050Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:49.132Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T10:10:49.132Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:49.169Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T10:10:49.170Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T10:10:49.292Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ 200
+[debug] [2025-10-22T10:10:49.293Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T10:10:49.299Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T10:10:49.300Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T10:10:49.318Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T10:10:49.318Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T10:10:49.329Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T10:10:49.329Z] > authorizing via signed-in user (gilbertpaul.business@gmail.com)
+[debug] [2025-10-22T10:10:49.439Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ 200
+[debug] [2025-10-22T10:10:49.439Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/vj-piles-movies/services/ [omitted]

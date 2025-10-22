@@ -22,6 +22,13 @@ This project is a movie and TV series streaming platform called MovieBox.
 
 ## Current Plan
 
+*   **Task:** Add wallet management to admin dashboard.
+*   **Steps:**
+    1.  Created a new wallet management page at `app/admin/wallet/page.tsx`.
+    2.  Implemented UI for displaying balance and a withdrawal form.
+    3.  Added mock balance data and withdrawal functionality with validation.
+    4.  Added a link to the wallet page in the admin sidebar.
+
 *   **Task:** Update Firebase configuration and admin email.
 *   **Steps:**
     1.  Updated the admin email in `lib/auth-context.tsx`.

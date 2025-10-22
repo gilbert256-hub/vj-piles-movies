@@ -29,13 +29,13 @@
   --chart-4: #ec4899;
   --chart-5: #6b7280;
   --radius: 1.25rem;
-  --sidebar: #1A1A1A;
+  --sidebar:rgb(255, 0, 242);
   --sidebar-foreground: #ffffff;
   --sidebar-primary: #ff1493;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #ff1493;
   --sidebar-accent-foreground: #ffffff;
-  --sidebar-border: #333333;
+  --sidebar-border:rgb(58, 14, 255);
   --sidebar-ring: rgba(255, 20, 147, 0.3);
   --gradient-brand: linear-gradient(135deg, #4a1942 0%, #ff1493 100%);
 }

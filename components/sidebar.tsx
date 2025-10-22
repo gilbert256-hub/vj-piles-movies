@@ -1,6 +1,6 @@
 "use client"
 
-import { Home, Film, Tv, TrendingUp, Clock, Star, Crown, Settings } from "lucide-react"
+import { Home, Film, Tv, TrendingUp, Clock, Star, Crown, Settings, Wallet } from "lucide-react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import Image from "next/image"
@@ -65,6 +65,17 @@ export default function Sidebar() {
               >
                 <Settings className="w-5 h-5" />
                 <span className="text-sm">Admin Dashboard</span>
+              </Link>
+              <Link
+                href="/admin/wallet"
+                className={`flex items-center gap-3 px-3 py-2.5 rounded-lg transition-colors ${
+                  pathname === "/admin/wallet"
+                    ? "bg-blue-500/20 text-blue-400 font-semibold"
+                    : "text-blue-400 hover:bg-blue-500/10"
+                }`}
+              >
+                <Wallet className="w-5 h-5" />
+                <span className="text-sm">Wallet</span>
               </Link>
             </>
           )}
