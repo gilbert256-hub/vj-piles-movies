@@ -22,6 +22,10 @@ This project is a movie and TV series streaming platform called MovieBox.
 
 ## Current Plan
 
+*   **Task:** Implement real-time balance in wallet.
+*   **Steps:**
+    1.  Updated `getWalletBalance` to fetch and sum `amount` from successful subscriptions in Firestore.
+
 *   **Task:** Add wallet management to admin dashboard.
 *   **Steps:**
     1.  Created a new wallet management page at `app/admin/wallet/page.tsx`.

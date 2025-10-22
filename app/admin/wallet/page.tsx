@@ -6,12 +6,18 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { toast } from "sonner"
+import { db } from "@/lib/firebase"
+import { collection, query, where, getDocs, sum } from "firebase/firestore"
 
-// Mock function to get balance, replace with actual DB query
 async function getWalletBalance() {
-  // In a real app, you would fetch this from your database
-  // by summing up successful subscription payments.
-  return 1250.75
+  const subscriptionsRef = collection(db, "subscriptions");
+  const q = query(subscriptionsRef, where("status", "==", "completed"));
+  const querySnapshot = await getDocs(q);
+  let total = 0;
+  querySnapshot.forEach((doc) => {
+    total += doc.data().amount;
+  });
+  return total;
 }
 
 export default function WalletManagementPage() {
