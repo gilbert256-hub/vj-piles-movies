@@ -28,3 +28,14 @@ This project is a movie and TV series streaming platform called MovieBox.
     2.  Deleted the old `lib/firebase.ts` file.
     3.  Created a new `lib/firebase.ts` file with the new Firebase project's configuration.
     4.  Created a `firestore.rules` file with updated security rules.
+
+*   **Task:** Remove fade from hero slider.
+*   **Steps:**
+    1.  Removed the gradient overlays from the `components/hero-banner.tsx` file.
+
+## Next Steps
+
+*   **Implement a "Continue Watching" section:** This would allow users to easily resume watching content they've previously started.
+*   **Add a "My List" feature:** This would allow users to save content to a personal watchlist.
+*   **Improve the search functionality:** The search could be made more robust by adding filters and sorting options.
+*   **Add social sharing features:** This would allow users to share what they're watching on social media.
